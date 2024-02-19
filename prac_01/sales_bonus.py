@@ -16,7 +16,3 @@ while sales >= 0:
         bonus = sales * HIGH_BONUS
     print("Bonus is $", bonus, sep='')
     sales = float(input("Enter sales: $ "))
-
-
-
-
