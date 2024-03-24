@@ -19,3 +19,4 @@ Throughout my studies, I have learned many valuable lessons about writing concis
 For an in-depth detailed description of the Programming Mode and CP1404 practices, please see the following links:
 
 - https://github.com/CP1404/Starter/wiki/Programming-Patterns
+- https://github.com/CP1404/Practicals/tree/master
