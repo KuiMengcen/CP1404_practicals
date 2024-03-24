@@ -5,8 +5,7 @@ Welcome to my CP1404 Practicals repository! This repository contains all of the 
 
 ## About Me
 
-I am an Information Technology student at James Cook University, constantly exploring new technologies and practices to improve my programming skills. While taking the CP1404 course, I have gained a deeper understanding of concise code and effective programming patterns.
-
+My name is Kui Mengcen and I am an Information Technology major at James Cook University who is constantly exploring new technologies and practices to improve my programming skills. During my time in the CP1404 course, I have gained a deeper understanding of clean code and effective programming patterns.
 ## Lessons Learned About Succinct Code
 
 Throughout my studies, I have learned many valuable lessons about writing concise, maintainable code, including
@@ -19,5 +18,5 @@ Throughout my studies, I have learned many valuable lessons about writing concis
 
 For an in-depth detailed description of the Programming Mode and CP1404 practices, please see the following links:
 
-- [Programming Modes](https://example.com/programming-patterns)
-- CP1404 Utility Description](https://example.com/cp)
+- [Programming Patterns](https://example.com/programming-patterns)
+- [CP1404 Practicals Instructions](https://example.com/cp1404-practicals-instructions)
